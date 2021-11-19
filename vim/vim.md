@@ -6,7 +6,7 @@ Prodly made with vim.
 I finished this room, and I think this write-up will be stay incomplete. It is just for learning the basics.
 
 ## Markdown basics
-[https://daringfireball.net/projects/markdown/syntax#code" target="_blank]
+https://daringfireball.net/projects/markdown/syntax#code 
 
 
 ## Task 4
