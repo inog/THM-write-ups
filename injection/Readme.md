@@ -30,6 +30,8 @@ First of all you have to know how the Linux version is displayed to the terminal
 This website could help. https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
 
 after that you can use the `>` to foward the output into a file.
+try the following
+`a;whoami > w.txt' and go with the browser to `<IP>/w.txt`
 
 
 
