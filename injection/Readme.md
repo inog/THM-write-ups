@@ -30,9 +30,10 @@ First of all you have to know how the Linux version is displayed to the terminal
 This website could help. https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
 
 after that you can use the `>` to foward the output into a file.
-try the following
+try the following  
 `a;whoami > w.txt` and go with the browser to `<IP>/w.txt`
-
+to solve this question past the folling into the inputbox. 
+`a; uname -r > kernel.txt` go to website `<IP>/kernel.txt`
 
 
 #### Enter "root" into the input and review the alert.  What type of alert do you get?
