@@ -18,9 +18,9 @@ I finished this room, and I think this write-up will be stay incomplete. It is j
 
 ## Task 4
 ###  How do we copy a line?
-`` yy
+` yy `
 
 ### Ho do we copy to the end of the line?
-`` y$
+` y$ `
 
  
