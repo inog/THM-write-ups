@@ -6,14 +6,7 @@ Prodly made with vim.
 I finished this room, and I think this write-up will be stay incomplete. It is just for learning the basics.
 
 ## Markdown basics
-[find here:][https://daringfireball.net/projects/markdown/syntax#code]
-
-### Codeblock by 4 indents
-	code block
-	asdf
-	asdf
-### backticks for span
-``` some text ``` 
+[https://daringfireball.net/projects/markdown/syntax#code target=_blank]
 
 
 ## Task 4
