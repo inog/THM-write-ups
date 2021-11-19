@@ -34,13 +34,13 @@ after that you can use the `>` to foward the output into a file.
 
 
 #### Enter "root" into the input and review the alert.  What type of alert do you get?
-the answer is `Success'
+the answer is `Success`
 
 #### Enter "www-data" into the input and review the alert.  What type of alert do you get?
-the answer is `Success'
+the answer is `Success`
 
 #### Enter your name into the input and review the alert.  What type of alert do you get?
-the answer is `Success'
+the answer is `Success`
 
 
 
