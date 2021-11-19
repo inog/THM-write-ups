@@ -25,3 +25,22 @@ use `ping -h` to check the help page.
 #### Ping the box with 10 packets. What is this command (without IP address)?
 `ping -c 10 <IP-Address>`
 
+#### Redirect the box's Linux Kernel Version to a file on the web server.  What is the Linux Kernel Version?
+First of all you have to know how the Linux version is displayed to the terminal.
+This website could help. https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
+
+after that you can use the `>` to foward the output into a file.
+
+
+
+#### Enter "root" into the input and review the alert.  What type of alert do you get?
+the answer is `Success'
+
+#### Enter "www-data" into the input and review the alert.  What type of alert do you get?
+the answer is `Success'
+
+#### Enter your name into the input and review the alert.  What type of alert do you get?
+the answer is `Success'
+
+
+
