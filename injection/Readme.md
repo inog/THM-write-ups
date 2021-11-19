@@ -79,9 +79,12 @@ The first one shows the hole content of passwd.
 The second one only these which have an /home...
 There is one. But the correct answer is 0. found here https://www.thedutchhacker.com/owasp-top-10-on-tryhackme/
 
+#### What user is this app running as?
+here use again whoami
+`www-data`
 
-
-
+#### What is the user's shell set as?
+I found the answer https://jinshiranai.hashnode.dev/tryhackme-owasp-top-10-write-up. This one is quit difficult.
 
 
 #### What version of Ubuntu is running?
@@ -92,8 +95,19 @@ With the knowlege of Task 3 we can enter
 `18.04.4` 
 
 
+#### Print out the MOTD.  What favorite beverage is shown?
+Again hard to find. google is your friend
+https://jinshiranai.hashnode.dev/tryhackme-owasp-top-10-write-up
 
+`cat /etc/update-motd.d/00-header` 
+look at the bottom of the file. 
 
+Answer: `DR PEPPER`
+
+#### Get the flag!
+Ok this one is tricky. 
+I do the following:
+`find / name *.txt > f.txt` this produce a long list.. 
 
 
 
