@@ -5,13 +5,20 @@ Prodly made with vim.
 
 I finished this room, and I think this write-up will be stay incomplete. It is just for learning the basics.
 
+## Markdown basics
+### Codeblock by 4 indents
+	code block
+	asdf
+	asdf
 
 
-# Task 4
-##  How do we copy a line?
+
+
+## Task 4
+###  How do we copy a line?
 yy
 
-## Ho do we copy to the end of the line?
+### Ho do we copy to the end of the line?
 y$
 
-
+ 
