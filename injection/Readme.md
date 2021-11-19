@@ -53,21 +53,27 @@ So lets play around.
 - uname -a
 - ps -ef
 - pwd
-- ls -la ../../
+- ls -la ../../  
+
 *Tip*
-you can still redirect the output in a file. 
-`ls -la > ls.txt'
+you can still redirect the output in a file.  
+
+`ls -la > ls.txt`
+
 #### What strange text file is in the website root directory?
 `drpepper.txt`
 
 #### How many non-root/non-service/non-daemon users are there?
 Honnestly I had to google that. 
-I found the following:  
-All users are listed in /etc/passwd
-All users with a /home/ directory are real users. 
+I found the following: 
+ 
+All users are listed in `/etc/passwd` 
+All users with a `/home/` directory are real users. 
 I entered 
-   cat /etc/passwd > p.txt 	
-   cat /etc/passwd | grep /home > p1.txt
+
+    cat /etc/passwd > p.txt 	
+    cat /etc/passwd | grep /home > p1.txt
+
 
 The first one shows the hole content of passwd. 
 The second one only these which have an /home...
