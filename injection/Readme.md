@@ -31,7 +31,7 @@ This website could help. https://linuxize.com/post/how-to-check-the-kernel-versi
 
 after that you can use the `>` to foward the output into a file.
 try the following
-`a;whoami > w.txt' and go with the browser to `<IP>/w.txt`
+`a;whoami > w.txt` and go with the browser to `<IP>/w.txt`
 
 
 
