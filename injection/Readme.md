@@ -1,6 +1,6 @@
 # THM room injection
 
-This is my write up for the room injection at [TryHackMe]( https://tryhackme.com/room/injection)
+This is my write up for the room injection at [TryHackMe:injection]( https://tryhackme.com/room/injection)
 
 ## Task 1 
 - read the intro stuff
