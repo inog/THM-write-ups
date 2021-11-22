@@ -33,4 +33,12 @@ Nothing to say here.
 ### Verbosity level one is good, but verbosity level two is better! How would you set the verbosity level to two?
 (Note: it's highly advisable to always use at least this option)
 `-vv`
+### What switch would you use to save the nmap results in three major formats?
+`-oA`
+### What switch would you use to save the nmap results in a "normal" format?
+`-oN`
 
+### A very useful output format: how would you save results in a "grepable" format?
+`-oG`
+### How would you activate this setting? aggressive
+`-A`
