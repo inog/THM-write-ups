@@ -42,3 +42,16 @@ Nothing to say here.
 `-oG`
 ### How would you activate this setting? aggressive
 `-A`
+### How would you set the timing template to level 5?
+`-T5`
+### How would you tell nmap to only scan port 80?
+`-p 80`
+### How would you tell nmap to scan ports 1000-1500? 
+`-p 1000-1500`
+### How would you tell nmap to scan all ports?
+`-a`
+### How would you activate a script from the nmap scripting library (lots more on this later!)?
+`-script`
+### How would you activate all of the scripts in the "vuln" category?
+`--script=vuln*`
+
