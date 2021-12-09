@@ -101,3 +101,15 @@ the hostname is under System
 
 very nice walkthrough and more.
 https://www.youtube.com/watch?v=pGPE5uCI5h8
+
+## Task 12 Day 7 Migration without Security
+Today we learn something new about NoSQL and mongo. 
+
+- Collections are similar to tables or views in MySQL and MSSQL.
+- Documents are similar to rows or records in MySQL and MSSQL.
+- Fields are similar to columns in MySQL and MSSQL.
+
+connect via ssh to the server with mongo db.
+
+
+
