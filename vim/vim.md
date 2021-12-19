@@ -17,6 +17,9 @@ https://daringfireball.net/projects/markdown/syntax#code
 ` y$ `
 
 
+... much more 
+
+
 ## Spellchecking 
 
 feature that i doesn't know so far.
@@ -27,13 +30,26 @@ feature that i doesn't know so far.
 
 
 ### Basics
-Turn on/ off 
+turn on
 ``` 
   :set spell
   :set spell spelllang=en_us
   :set spell spelllang=de_de
   :set nospell
 ```
+turn off
+ `
+:set nospell`
+
+go to next misspell   
+`]s` fowward   
+`[s` backward
+
+with cursor over word  
+`z=` brins up an suggestion list.
+
+
+
 
 
 
