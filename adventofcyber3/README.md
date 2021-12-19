@@ -11,7 +11,7 @@ IDOR stands for Insecure Direct Object Reference and is a type of access control
 
 ## Task 7 Day 2 Web Exploitation Elf HR Problems 
 
-Very interessting cookie manipulation. 
+Very interesting cookie manipulation. 
 
 Tools: 
 https://gchq.github.io/CyberChef/
@@ -110,6 +110,30 @@ Today we learn something new about NoSQL and mongo.
 - Fields are similar to columns in MySQL and MSSQL.
 
 connect via ssh to the server with mongo db.
+.
+.
+.
+
+## Task 21 Day 16 OSINT 
+learn interesting stuff about Google dorking.
+
+https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06#google-dork-cheatsheet
+
+Learn how to research on the web and use the power of google. And all the information that is public.
+
+task for me:
+- make more notes, 
+- find information to a specific target a
+- nd put them together.
+
+### Obsidian
+Discover the obsidian to manage notes.
+https://obsidian.md/
+seems to be an good alternative to evernote.
+https://de.wikipedia.org/wiki/Zettelkasten
+
+## Task Day 17 Cloud Elf Leaks 
+
 
 
 
