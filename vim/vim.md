@@ -22,17 +22,19 @@ https://daringfireball.net/projects/markdown/syntax#code
 feature that i doesn't know so far.
 
 ### Resources
-https://www.linux.com/training-tutorials/using-spell-checking-vim/
-https://linuxhint.com/vim_spell_check/
+- https://www.linux.com/training-tutorials/using-spell-checking-vim/
+- https://linuxhint.com/vim_spell_check/
 
 
 ### Basics
 Turn on/ off 
-` :set spell
+``` 
+  :set spell
   :set spell spelllang=en_us
   :set spell spelllang=de_de
   :set nospell
-`
+```
+
 
 
  
