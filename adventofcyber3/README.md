@@ -135,5 +135,17 @@ https://de.wikipedia.org/wiki/Zettelkasten
 ## Task Day 17 Cloud Elf Leaks 
 
 
+config.php of the wp-backup.zip containing IAM information
+
+'S3_UPLOADS_BUCKET', 'images.bestfestivalcompany.com
+'S3_UPLOADS_KEY', 'AKIAQI52OJVCPZXFYAOI'
+'S3_UPLOADS_SECRET', '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'
+'S3_UPLOADS_REGION', 'us-east-1'
+
+
+## Task 23 Day 18 Cloud Playing with containers
+
+trying the walkthroud with podman instead of docker.. which is new for me. 
+
 
 
