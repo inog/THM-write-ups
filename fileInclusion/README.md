@@ -29,10 +29,10 @@ http://webapp.thm/get.php?file=../../../../windows/win.ini
 ### Task 5 
 
 NullByte `%00`
-<Using null bytes is an injection technique where URL-encoded representation such as %00 or 0x00 in hex with user-supplied data to terminate strings. You could think of it as trying to trick the web app into disregarding whatever comes after the Null Byte.
-
+> Using null bytes is an injection technique where URL-encoded representation such as %00 or 0x00 in hex with user-supplied data to terminate strings. You could think of it as trying to trick the web app into disregarding whatever comes after the Null Byte.
+ 
 By adding the Null Byte at the end of the payload, we tell the  include function to ignore anything after the null byte which may look like:
-
+ 
 include("languages/../../../../../etc/passwd%00").".php"); which equivalent to → include("languages/../../../../../etc/passwd");
 
 
