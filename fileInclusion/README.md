@@ -35,3 +35,5 @@ NullByte `%00`
 include("languages/../../../../../etc/passwd%00").".php"); which equivalent to → include("languages/../../../../../etc/passwd");
 
 
+
+https://www.youtube.com/watch?v=bMnuXZ70YdU
