@@ -1,4 +1,4 @@
-# THM-writ-ups
+# THM-write-ups
 Write-ups off resolving rooms on tryhackme.
 
 This is my working directory. 
