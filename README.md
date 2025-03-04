@@ -1,4 +1,10 @@
-# THM-writ-ups
-Write-ups off resolving rooms on tryhackme.
+# THM-write-ups
+Write-ups off resolving rooms on tryhackme.com
 
-new link to git - test
+This is my working directory. 
+So most of the notes are incomplete. 
+
+A good security analyst will allway make notes.
+
+
+
